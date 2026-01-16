@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, HTML, CSS, SQL  
+- **Languages**: Python, SQL, Android Studio  
 - **Tools & Platforms**: Git, Linux,   
 - **Areas of Interest**: Cybersecurity, Penetration Testing, Web Development, Manual Testing
 
